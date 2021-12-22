@@ -1,3 +1,3 @@
-import * as sum from './index.js';
+import { sum } from './index.cjs'
 
-console.log(sum(10, 20));
+console.log(sum(10, 20))
